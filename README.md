@@ -10,6 +10,7 @@
 ### - Do sales figures vary between geographic regions?
 ## SQL Skills Demonstrated:
 ### - Extracting Entity Relationship Diagram (ERD)
+### - Created complete data dictionary
 ### - Writing SQL queries to organize, sort, filter, order, summarize, clean, and join data
 ### - Writing subqueries to answer complex business questions
 ### - Using Common Table Expressions (CTEs) to optimize subqueries
