@@ -17,5 +17,7 @@
 ### The fictional data consists of 15 tables covering all aspects of customer, film, staff, rental, and payment information.
 ### Source: https://www.postgresqltutorial.com/postgresql-sample-database/
 ## Repo Contents:
-### - 1. Data Dictionary
-### - 2. 
+### - Data Dictionary
+### - postgreSQL queries examples
+### - Final analysis presentation (3_10.pptx)
+### - [Tableau Link](https://public.tableau.com/app/profile/scott.ellis1807/viz/Rockbuster_16416872789260/3_CountriesPaymentmap)
