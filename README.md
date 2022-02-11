@@ -17,4 +17,5 @@
 ### The fictional data consists of 15 tables covering all aspects of customer, film, staff, rental, and payment information.
 ### Source: https://www.postgresqltutorial.com/postgresql-sample-database/
 ## Repo Contents:
-### - Folder: aeafdsaf
+### - 1. Data Dictionary
+### - 2. 
